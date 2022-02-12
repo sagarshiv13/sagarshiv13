@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sagar Shivshankar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Software Developer having an experience of building Web applications with JavaScript / Reactjs / Nodejs / MongoDb</h3>
 <img align="center" alt="Coding" width="1000" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif"/>
 
 
